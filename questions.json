@@ -1,0 +1,152 @@
+[
+  {
+    "question": "How often do you re-watch recorded lectures after attending the live class?",
+    "options": [
+      ["Every lecture", 0],
+      ["Most lectures", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "question": "How much does replaying a lecture help you understand difficult concepts?",
+    "options": [
+      ["A great deal", 0],
+      ["Quite a lot", 1],
+      ["Somewhat", 2],
+      ["A little", 3],
+      ["Not at all", 4]
+    ]
+  },
+  {
+    "question": "When you miss an important point during class, how likely are you to use the replay to review it?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "question": "How clearly do lecture replays help you remember the material later?",
+    "options": [
+      ["Very clearly", 0],
+      ["Clearly", 1],
+      ["Moderately", 2],
+      ["Slightly", 3],
+      ["They do not help", 4]
+    ]
+  },
+  {
+    "question": "How often do you pause or rewind recordings to check your understanding?",
+    "options": [
+      ["Very often", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "question": "How useful are lecture replays when preparing for quizzes or exams?",
+    "options": [
+      ["Extremely useful", 0],
+      ["Very useful", 1],
+      ["Moderately useful", 2],
+      ["Slightly useful", 3],
+      ["Not useful", 4]
+    ]
+  },
+  {
+    "question": "How often do you combine lecture replays with note-taking to strengthen learning?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "question": "How easy is it for you to stay focused while watching a lecture replay?",
+    "options": [
+      ["Very easy", 0],
+      ["Easy", 1],
+      ["Neutral", 2],
+      ["Difficult", 3],
+      ["Very difficult", 4]
+    ]
+  },
+  {
+    "question": "How often do you replay only specific sections instead of re-watching the full lecture?",
+    "options": [
+      ["Very often", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "question": "How much do lecture replays improve your confidence before assignments?",
+    "options": [
+      ["Significantly", 0],
+      ["Quite a bit", 1],
+      ["Moderately", 2],
+      ["Slightly", 3],
+      ["Not at all", 4]
+    ]
+  },
+  {
+    "question": "How often do you use lecture replays to clarify topics you found confusing the first time?",
+    "options": [
+      ["Always", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "question": "How well do lecture replays help you study at your own pace?",
+    "options": [
+      ["Extremely well", 0],
+      ["Very well", 1],
+      ["Adequately", 2],
+      ["Poorly", 3],
+      ["Very poorly", 4]
+    ]
+  },
+  {
+    "question": "How often do you return to older lecture recordings during revision periods?",
+    "options": [
+      ["Very often", 0],
+      ["Often", 1],
+      ["Sometimes", 2],
+      ["Rarely", 3],
+      ["Never", 4]
+    ]
+  },
+  {
+    "question": "How much do lecture replays reduce your stress when studying difficult modules?",
+    "options": [
+      ["A lot", 0],
+      ["Quite a bit", 1],
+      ["Somewhat", 2],
+      ["Very little", 3],
+      ["Not at all", 4]
+    ]
+  },
+  {
+    "question": "Overall, how effective are lecture recordings in reinforcing your understanding of course material?",
+    "options": [
+      ["Extremely effective", 0],
+      ["Very effective", 1],
+      ["Moderately effective", 2],
+      ["Slightly effective", 3],
+      ["Not effective", 4]
+    ]
+  }
+]
